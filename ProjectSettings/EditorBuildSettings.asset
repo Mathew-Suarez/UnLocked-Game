@@ -6,6 +6,51 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 811bf7bc11a148345865ece0d3cc934c
+  - enabled: 1
+    path: Assets/Scenes/StartingPoint.unity
+    guid: e74439ce01693f64bad6bd52c65166a3
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/AND_Tutorial.unity
+    guid: 93ed2c049368db14994411bc2e75348f
+  - enabled: 1
+    path: Assets/Scenes/OR_Tutorial.unity
+    guid: 926affbd2778a184589bbc13e44be024
+  - enabled: 1
+    path: Assets/Scenes/NOT_Tutorial.unity
+    guid: 52e0e322e9354e34cae330d761d6b059
+  - enabled: 1
+    path: Assets/Scenes/01_Puzzle.unity
+    guid: 2fc14c32b75d1f74fb9b68596c4f2678
+  - enabled: 1
+    path: Assets/Scenes/02_Puzzle.unity
+    guid: ea5c5c440deedd0439b5967f0e5634f2
+  - enabled: 1
+    path: Assets/Scenes/03_Puzzle.unity
+    guid: 0170b540ac6229248aea099b31356c85
+  - enabled: 1
+    path: Assets/Scenes/04_Puzzle.unity
+    guid: 75708495252204e41b4976c60b1f689c
+  - enabled: 1
+    path: Assets/Scenes/TRIAL_CHAMBERS.unity
+    guid: de67a2f6355ff19499ca3dbe7ae377b1
+  - enabled: 1
+    path: Assets/Scenes/Trial2.unity
+    guid: 7bc6b43cb8820804b8cdc7867b0715fa
+  - enabled: 1
+    path: Assets/Scenes/Trial1.unity
+    guid: a2629e72b5a26784ea8c79f34c2c8414
+  - enabled: 1
+    path: Assets/Scenes/Trial3.unity
+    guid: 53c772b690a74994f9e5cc198a71a483
+  - enabled: 1
+    path: Assets/Scenes/Trial4.unity
+    guid: 9e0a610d03368c04ab2155fa7a3c9f40
+  - enabled: 1
+    path: Assets/Scenes/Trial5.unity
+    guid: 464d71ee056f21d49a05dd6233c965a6
   m_configObjects: {}

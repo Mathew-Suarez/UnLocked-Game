@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ItemPickUp : MonoBehaviour
+public class ItemPickUp : MonoBehaviour, IInteractable
 {
     [Header("Settings")]
     public float pickupDelay = 0.6f;
@@ -21,10 +21,21 @@ public class ItemPickUp : MonoBehaviour
         }
     }
 
+    // ===== AUTO-PICKUP: When player walks into the item =====
     private void OnTriggerEnter2D(Collider2D other)
     {
         // Check if the Player touched it AND if the delay is over
         if (other.CompareTag("Player") && Time.time > spawnTime + pickupDelay)
+        {
+            Collect();
+        }
+    }
+
+    // ===== INTERACTION: Called when player presses the Interact button =====
+    public void Interact(Transform player)
+    {
+        // Only allow interaction after the spawn delay
+        if (Time.time > spawnTime + pickupDelay)
         {
             Collect();
         }

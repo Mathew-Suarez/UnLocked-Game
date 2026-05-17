@@ -1,51 +1,77 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovements : MonoBehaviour
 {
-    public float speed = 5;
+    [Header("Movement")]
+    public float speed = 5f;
     public int facingDirection = 1;
 
+    [Header("Components")]
     public Rigidbody2D rb;
     public Animator anim;
+    public Player_Combat player_Combat;   // (if you need it for other scripts)
 
-    public Player_Combat player_Combat;
+    [Header("Mobile Input")]
+    public MobileJoystick moveJoystick;
 
-    private void Update()
+    private void Awake()
     {
-        if (Input.GetButtonDown("Slash"))
+        // Auto‑assign Rigidbody2D if not set
+        if (rb == null)
+            rb = GetComponent<Rigidbody2D>();
+
+        // Auto‑assign Animator if not set
+        if (anim == null)
+            anim = GetComponent<Animator>();
+
+        // Auto‑find the joystick
+        if (moveJoystick == null)
         {
-            player_Combat.Attack();
+            // Try the static reference first (fastest)
+            moveJoystick = MobileJoystick.instance;
+
+            // If still null, search the whole scene
+            if (moveJoystick == null)
+            {
+                moveJoystick = FindObjectOfType<MobileJoystick>();
+                if (moveJoystick == null)
+                    Debug.LogError($"[{gameObject.name}] No MobileJoystick found! Movement disabled.");
+                if (moveJoystick == null)
+                    Debug.LogError("❌ Joystick is NULL! Movement impossible.");
+                else
+                    Debug.Log("✅ Joystick found: " + moveJoystick.gameObject.name);
+            }
         }
     }
 
     void FixedUpdate()
     {
-        float horizontal = Input.GetAxisRaw("Horizontal"); // Using GetAxisRaw for "snappier" ICT movement
-        float vertical = Input.GetAxisRaw("Vertical");
+        // If no joystick, do nothing (prevents NullReferenceException)
+        if (moveJoystick == null)
+            return;
 
-        // 1. Create a direction vector
+        float horizontal = moveJoystick.Horizontal;
+        float vertical = moveJoystick.Vertical;
+
         Vector2 moveDirection = new Vector2(horizontal, vertical);
 
-        // 2. NORMALIZE IT
-        // This makes sure the diagonal length is 1, not 1.41
-        if (moveDirection.magnitude > 1)
-        {
+        if (moveDirection.magnitude > 1f)
             moveDirection.Normalize();
-        }
 
-        if (horizontal > 0 && transform.localScale.x < 0 ||
-            horizontal < 0 && transform.localScale.x > 0)
+        if (horizontal > 0f && transform.localScale.x < 0f ||
+            horizontal < 0f && transform.localScale.x > 0f)
         {
             Flip();
         }
 
-        anim.SetFloat("horizontal", Mathf.Abs(horizontal));
-        anim.SetFloat("vertical", Mathf.Abs(vertical));
+        if (anim != null)
+        {
+            anim.SetFloat("horizontal", Mathf.Abs(horizontal));
+            anim.SetFloat("vertical", Mathf.Abs(vertical));
+        }
 
-        // 3. Apply the normalized direction to the velocity
-        rb.velocity = moveDirection * speed;
+        if (rb != null)
+            rb.velocity = moveDirection * speed;
     }
 
     void Flip()

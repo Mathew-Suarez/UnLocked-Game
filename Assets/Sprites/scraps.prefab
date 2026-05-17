@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: scraps
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: ca261103397659348a7599b40adb17b5, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: ca261103397659348a7599b40adb17b5, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.74
