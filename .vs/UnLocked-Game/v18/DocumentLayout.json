@@ -1,14 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\",
+  "WorkspaceRootPath": "C:\\GitProjects\\UnLocked-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\gitprojects\\unlocked-game\\assets\\scripts\\depositspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\depositspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\enemy_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\highlightwhennear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\highlightwhennear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitProjects\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Player_Combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player_Combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\IInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\NPCTrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\NPCTrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +73,202 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GridBrushEditor.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA4AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDkAAAAcAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T14:49:21.874Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PersistentCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T19:42:46.594Z",
+              "WhenOpened": "2026-05-20T14:49:21.894Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GridBrushEditor.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersistentCanvas.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentCanvas.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PersistentCanvas.cs",
+              "DocumentIndex": 0,
+              "Title": "DepositSpot.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\DepositSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DepositSpot.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\DepositSpot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DepositSpot.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T06:17:17.175Z"
+              "WhenOpened": "2026-05-20T14:49:21.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwHMAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T14:49:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NPCTrader.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\NPCTrader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCTrader.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\NPCTrader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCTrader.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAEwFMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy_Combat.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Enemy_Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Combat.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Enemy_Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Combat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy_Movement.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Enemy_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Movement.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Enemy_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyAi.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\EnemyAi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAi.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\EnemyAi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteract.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteract.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDoAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T14:49:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HighlightWhenNear.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\HighlightWhenNear.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HighlightWhenNear.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\HighlightWhenNear.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HighlightWhenNear.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemPickUp.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\ItemPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemPickUp.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\ItemPickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemPickUp.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T14:49:21.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAcAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T14:49:21.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMovements.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\PlayerMovements.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovements.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\PlayerMovements.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovements.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T14:49:21.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player_Combat.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Player_Combat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player_Combat.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\Player_Combat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player_Combat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKmSURBVDhP7dFPSJNxHAbw5/vunQ3xbU4naqaSMxObhTkqA\u002B3PQUrwEISU9AfyX6dyEd0ko1NQblYQKdLB1ENKsDoEUSEWNrc0LaxMDwnmdJbOmZtu7/vtkBvvpZMdfW7fHx94HvgBG1lvCAC\u002BL3w39Hzr0T358gifvZPISMqAtdCK0sQCf3KyeSmCO0Y6DFpBG6owVywxXxPah01GY6zRV5ZTthIxAgAEggGboJA7xBo3iWG3qJA7Rhbdv2RNXQQCQDAUtPlX/XUA0D5sMobl0HPP0lSJ2ogAcGfIliAK4pbdibtcC8GFe4VJFpvT40wY8AxIavxwtCWBAQkAWj/aNQpiksHQqQ0BQE5LliNzc6ZUnFLSKjMcRFTX73lTuxTyd53Lr\u002Br8HfBX2j80wbfiO0VEPwD0MjgOQC0Yz0x609g2aftY94nuThEAvMuz8Aa8vS9Ovu5cK7ptbsuNJYUnREXUg4TCv/WkZ2YQoRBMOhC0IM4GSNIIUKIzDfY4h6FZaow\u002B/CNqZ2yKTY23S1PxzVK52gjq43\u002BEsNYMosH5S/7oSnNbbgMB49aCq\u002BOLq74G29At\u002BFYX94LZR8BXJugAKgZ4xKTPnsnSm1yPj/fcEAEgTUpHupR\u002BsKivqFI2wEHzVNc7\u002Ber04qqvKyyE3zMrgwAA5h1rnzIIcBzA\u002B8GYAPMYyzQRXXjl5WVHWJHLF1cWXE5P/90jGaV2ZiVBVuTr9489iK4\u002B0L7PwcBg/xlnY3H7nlQFWjeYLrw9\u002B\u002B5pxAgAUJVXM58amzLtmnFt9Qbmbo7OfVo5lHZ4\u002BmJBvT8CAaA6r2a\u002BemetHwBq8uvl83k1s1Xm2qDaCAAgh2QrWLCILFtkkIUgWkRNyAINWtRY3sRWXuYWANCN6X4qWj5KPupTm42sP38A\u002BPobLn6iw4AAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-20T14:49:21.944Z"
             }
           ]
         }

@@ -1,34 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\",
+  "WorkspaceRootPath": "C:\\GitProjects\\UnLocked-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\trialcompleter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trialcompleter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\gitprojects\\unlocked-game\\assets\\scripts\\npctrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npctrader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\trialprogressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trialprogressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\lastsceneteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lastsceneteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitProjects\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,95 +21,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SaveData.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\SaveData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveData.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\SaveData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SaveData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PersistentCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "RelativeToolTip": "..\\..\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:49:25.001Z",
+              "WhenOpened": "2026-05-16T06:17:17.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridBrushEditor.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:42:46.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TrialCompleter.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialCompleter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrialCompleter.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialCompleter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrialCompleter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "NPCTrader.cs",
+              "DocumentMoniker": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\NPCTrader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCTrader.cs",
+              "ToolTip": "C:\\GitProjects\\UnLocked-Game\\Assets\\Scripts\\NPCTrader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCTrader.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAEwFMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:41:33.773Z",
+              "WhenOpened": "2026-05-20T14:10:38.442Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TrialProgressManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialProgressManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrialProgressManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialProgressManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrialProgressManager.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAzwFkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T11:43:05.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:31:47.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GridBrushEditor.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T19:42:46.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersistentCanvas.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentCanvas.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PersistentCanvas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T06:17:17.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LastSceneTeleporter.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\LastSceneTeleporter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LastSceneTeleporter.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\LastSceneTeleporter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LastSceneTeleporter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAA8wB0AAAABAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
-              "WhenOpened": "2026-05-16T14:31:47.551Z"
             }
           ]
         }

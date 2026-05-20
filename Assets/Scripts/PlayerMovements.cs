@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerMovements : MonoBehaviour
 {
     [Header("Movement")]
-    public float speed = 5f;
+    public float speed = 2f;
     public int facingDirection = 1;
 
     [Header("Components")]

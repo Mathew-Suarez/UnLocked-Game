@@ -10,12 +10,6 @@ public class PlayerHealth : MonoBehaviour
     public TMP_Text healthtext;
     public Animator healthTextAnim;
 
-    [Header("Regeneration")]
-    public float regenerationRate = 1f;
-    public float regenerationDelay = 3f;
-    private float lastDamageTime = -999f;
-    private Coroutine regenCoroutine;
-
     private Vector3 respawnPosition;
     private bool hasRespawnPoint = false;
 
@@ -24,7 +18,6 @@ public class PlayerHealth : MonoBehaviour
         respawnPosition = transform.position;
         hasRespawnPoint = true;
         UpdateHealthText();
-        regenCoroutine = StartCoroutine(RegenRoutine());
     }
 
     public void SetRespawnPoint(Vector3 newPoint)
@@ -38,11 +31,10 @@ public class PlayerHealth : MonoBehaviour
         currentHealth += amount;
         currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
-        healthTextAnim.Play("TextUpdate");
-        UpdateHealthText();
+        if (healthTextAnim != null)
+            healthTextAnim.Play("TextUpdate");
 
-        if (amount < 0)
-            lastDamageTime = Time.time;
+        UpdateHealthText();
 
         if (currentHealth <= 0)
         {
@@ -56,20 +48,6 @@ public class PlayerHealth : MonoBehaviour
     {
         if (healthtext != null)
             healthtext.text = "Hp: " + currentHealth + " / " + maxHealth;
-    }
-
-    IEnumerator RegenRoutine()
-    {
-        while (true)
-        {
-            if (currentHealth < maxHealth && Time.time > lastDamageTime + regenerationDelay)
-            {
-                currentHealth += Mathf.CeilToInt(regenerationRate * Time.deltaTime);
-                currentHealth = Mathf.Min(currentHealth, maxHealth);
-                UpdateHealthText();
-            }
-            yield return null;
-        }
     }
 
     void Die()

@@ -15,23 +15,21 @@ public class Player_Combat : MonoBehaviour
     public float cooldown = 1;
     private float timer;
 
-
     private void Update()
     {
         if (timer > 0)
-        { 
-            timer -= Time.deltaTime;   
+        {
+            timer -= Time.deltaTime;
         }
     }
+
     public void Attack()
     {
-        if(timer <= 0)
+        if (timer <= 0)
         {
             anim.SetBool("isAttacking", true);
-
             timer = cooldown;
         }
-        
     }
 
     public void DealDamage()

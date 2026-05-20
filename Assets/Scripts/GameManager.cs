@@ -76,17 +76,31 @@ public class GameManager : MonoBehaviour
             data.playerPosition = new float[] { pos.x, pos.y, pos.z };
         }
 
+        // FIXED: Loop through all 4 slots in slotsData list and add them to your save layout list
         if (InventoryManager.instance != null)
         {
-            var invData = InventoryManager.instance.GetSaveData();
             data.inventoryItems = new List<InventoryItemData>();
-            if (invData != null)
-                data.inventoryItems.Add(invData);
+
+            for (int i = 0; i < InventoryManager.instance.slotsData.Count; i++)
+            {
+                InventoryItemData slot = InventoryManager.instance.slotsData[i];
+
+                // Only write item information to file if the slot is occupied
+                if (slot != null && slot.quantity > 0 && !string.IsNullOrEmpty(slot.itemName))
+                {
+                    InventoryItemData itemSaveNode = new InventoryItemData();
+                    itemSaveNode.itemName = slot.itemName;
+                    itemSaveNode.quantity = slot.quantity;
+
+                    data.inventoryItems.Add(itemSaveNode);
+                }
+            }
         }
 
         SaveSystem.Save(data);
         Debug.Log("Game saved!");
     }
+
     public void LoadSceneWithFade(string sceneName)
     {
         if (Portal.StaticFadeImage != null)
