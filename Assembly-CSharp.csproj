@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scripts\Player_Combat.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+    <Compile Include="Assets\Scripts\CutsceneDialougueManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
@@ -101,6 +102,13 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets\Scripts\DialougueManager.cs" />
+    <Compile Include="Assets\Scripts\ImagePopup.cs" />
+    <Compile Include="Assets\Scripts\CutsceenPortal.cs" />
+    <Compile Include="Assets\Scripts\SaveSystem.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets\Scripts\ItemPickUp.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>

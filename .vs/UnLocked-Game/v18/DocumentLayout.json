@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\dialouguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialouguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\cutscenedialouguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cutscenedialouguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|c:\\users\\admin\\documents\\github\\unlocked-game\\assets\\scripts\\cutsceenportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cutsceenportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\fullreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fullreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\trialcompleter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trialcompleter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\trialprogressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trialprogressmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\assets\\scripts\\lastsceneteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B57C3D8-6721-BB07-8E12-F31B66FC8665}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lastsceneteleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PersistentCanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T01:00:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T00:38:17.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:51:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CutsceneDialougueManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\CutsceneDialougueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CutsceneDialougueManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\CutsceneDialougueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CutsceneDialougueManager.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAiwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:37:55.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CutsceenPortal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\CutsceenPortal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CutsceenPortal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\CutsceenPortal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CutsceenPortal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:24:46.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInteract.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PlayerInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteract.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PlayerInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteract.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:24:06.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GridBrushEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@1.0.0\\Editor\\GridBrushEditor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:42:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialougueManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\DialougueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialougueManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\DialougueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialougueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:24:06.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-19T23:24:06.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersistentCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentCanvas.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\PersistentCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentCanvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T06:17:17.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FullReset.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\FullReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FullReset.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\FullReset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FullReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:24:06.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrialCompleter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialCompleter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrialCompleter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialCompleter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrialCompleter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:24:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-19T23:24:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrialProgressManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialProgressManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrialProgressManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\TrialProgressManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrialProgressManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAzwFkAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-19T23:24:06.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-19T23:24:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LastSceneTeleporter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\LastSceneTeleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LastSceneTeleporter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\UnLocked-Game\\Assets\\Scripts\\LastSceneTeleporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LastSceneTeleporter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA8wB0AAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVDhPYxgFEHDjxY3/Xqvc/wtO5P1vvdji/40X1/9DpcBg3rm5cD4yGw6sF5v/bz7UAJZoAtIgw8ASUAAyGMpEYYMAI4gACb7P/wxmg4DuXM3/l5OvM4JsKz5cABVFBa6y7gyrgtZA9KCbig7wuYAJSpMNsBoA8gKIBnkBZiOIRmaHrQtBuMQTGGjNhxvBAk1AGhQTYAkoQHY2MhsOQNFotcgcbIPnSjfSo3FEAwYGAA95Yu3hOJS9AAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-19T23:24:06.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
